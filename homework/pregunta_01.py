@@ -14,7 +14,6 @@ def pregunta_01():
 
     """
 
-    return
     return "Hola mundo cruel!"
 
 
